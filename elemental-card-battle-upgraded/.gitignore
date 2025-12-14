@@ -1,0 +1,10 @@
+# Ignore executables
+battle
+client_bin
+*.o
+*.exe
+*.out
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

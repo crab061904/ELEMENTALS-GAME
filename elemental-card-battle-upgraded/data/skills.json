@@ -1,0 +1,12 @@
+[
+    {"name": "Blast", "base_damage": 15},
+    {"name": "Slash", "base_damage": 10},
+    {"name": "Breath", "base_damage": 12},
+    {"name": "Storm", "base_damage": 20},
+    {"name": "Strike", "base_damage": 8},
+    {"name": "Bolt", "base_damage": 18},
+    {"name": "Wave", "base_damage": 14},
+    {"name": "Burst", "base_damage": 25},
+    {"name": "Claw", "base_damage": 9},
+    {"name": "Nova", "base_damage": 30}
+]

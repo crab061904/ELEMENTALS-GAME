@@ -1,0 +1,20 @@
+# --- Unity Standard Ignore ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# --- VS Code / Visual Studio ---
+.vs/
+*.csproj
+*.sln
+*.user
+
+# --- C Backend Ignore ---
+elemental-card-battle-upgraded/battle
+elemental-card-battle-upgraded/client_bin
+*.o
+*.exe
